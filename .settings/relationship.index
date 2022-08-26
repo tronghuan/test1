@@ -1,0 +1,16 @@
+[ {
+  "baseItem" : {
+    "id" : "_DjjTMCUGEe28DIuxQPorxw",
+    "version" : "1.0",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_RMHlMCUHEe28DIuxQPorxw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_RMHlMCUHEe28DIuxQPorxw - EventLogFile",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
